@@ -31,7 +31,7 @@
 <br />
 <br />
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=florianbussmann&custom_title=Wakatime%20Weekly%20Stats&layout=compact&theme=default)](https://wakatime.com/@florianbussmann)
+[![Wakatime stats](https://github-readme-stats-florianbussmann.vercel.app/api/wakatime?username=florianbussmann&custom_title=Wakatime%20Weekly%20Stats&layout=compact&theme=default&min_seconds=600)](https://wakatime.com/@florianbussmann)
 
 #### 📊 GitHub Stats
 
